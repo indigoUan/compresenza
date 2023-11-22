@@ -1,0 +1,32 @@
+body {
+	width: 450px;
+	height: 500px;
+	background-color: black;
+}
+
+#interval {
+	position: absolute;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	top: 5px;
+	left: 10px;
+}
+
+#rate {
+	position: absolute;
+	top: 5px;
+	left: 100px;
+}
+
+#credit {
+	position: absolute;
+	top: 510px;
+	left: 56px;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#togithub {
+	position: absolute;
+	top: 508px;
+}
