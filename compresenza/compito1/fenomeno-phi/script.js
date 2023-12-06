@@ -27,7 +27,7 @@ function frame() {
 // se l'url ha "light" su `true` allora rende lo sfondo, ottimo per mimetizzarsi con lo sfondo bianco di google sites 
 let urlParams = new URLSearchParams(window.location.search);
 if (urlParams.get("light") === "true") {
-	document.body.style.backgroundColor = "#fdf1fa";
+	document.body.style.backgroundColor = "#f9e2f4";
 	document.getElementById("interval").style.color = "#222222"
 	document.getElementById("credit").style.color = "#222222"
 }
